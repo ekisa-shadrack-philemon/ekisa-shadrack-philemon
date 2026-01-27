@@ -1,3 +1,31 @@
+# Ekisa Shadrack Philemon
+
+🎓 Mathematics Educator | 🤖 Data Science & AI Enthusiast
+
+## About Me
+I am a Mathematics teacher and renewable energy educator passionate about using technology, data, and AI to solve real-world problems in education, sustainability, and climate action.
+
+## Interests
+- Data Science & Machine Learning
+- Renewable & Clean Energy
+- Education Technology
+- Climate Change & Sustainability
+- Applied Mathematics & Statistics
+
+## Current Work
+- AI-based traffic management solutions
+- Energy sustainability education projects
+- LaTeX-based academic writing and research
+
+## Tools & Skills
+- Python, Pandas, NumPy
+- LaTeX
+- Git & GitHub
+- Jupyter Notebook
+- Data Visualization
+
+## Contact
+- LinkedIn: (add later)
 ## Hi there 👋
 
 <!--
