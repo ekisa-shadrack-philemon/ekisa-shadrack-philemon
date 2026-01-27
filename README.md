@@ -3,7 +3,7 @@
  Mathematics Educator |  Data Science & AI Enthusiast
 
 ## About Me
-I am a Mathematics teacher and renewable energy educator passionate about using technology, data, and AI to solve real-world problems in education, sustainability, and climate action.
+I am a Mathematics teacher and renewable energy educator deliberate about using technology, data, and AI to solve real-world problems in education, sustainability, and climate action.
 
 ## Interests
 - Data Science & Machine Learning
